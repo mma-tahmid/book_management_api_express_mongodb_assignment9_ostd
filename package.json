@@ -1,0 +1,23 @@
+{
+  "name": "book_management_api_express_mongodb_assignment9_ostd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "tahmid",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.3",
+    "express": "^4.18.2",
+    "helmet": "^7.0.0",
+    "mongoose": "^7.2.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
